@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "engines": {
-    "yarn": "^2.0.0-rc.31"
+    "yarn": "1.1.0"
   },
   "dependencies": {
     "gatsby": "^2.20.12",
